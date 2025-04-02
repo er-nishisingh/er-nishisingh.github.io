@@ -575,6 +575,10 @@ footer img {
   .about-content {
     flex-direction: column;
     text-align: justify;
+
+    p {
+      font-size: 20px !important;
+    }
   }
 
   .project {
